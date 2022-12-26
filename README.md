@@ -1,11 +1,11 @@
 Hello
 =====
-🌱 Student in UPEC France
-=====
+### 🌱 Student in UPEC France
+
 ![](https://github-readme-stats.vercel.app/api?username=Lasauce6&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true)   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lasauce6&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true)
 =====
-Languages and Tools:
+### Languages and Tools:
 <p align="left">
   <a href="https://www.java.com/" target=_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt"java" width="40" height="40"/> </a>
   <a href="https://ocaml.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="40" height="40"/> </a> 
