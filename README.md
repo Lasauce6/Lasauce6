@@ -3,8 +3,7 @@ Hello
 ### 🌱 Student in UPEC France
 ### 👨‍💼 Freelance web dev and infosec passioned
 
-![](https://github-readme-stats.vercel.app/api?username=Lasauce6&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lasauce6&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true)
+
 =====
 ### Languages and Tools:
 <p align="left">
