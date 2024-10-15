@@ -1,6 +1,6 @@
 Hello
 =====
-### 🌱 Student in UPEC France
+### 🧑‍🎓 Student in 42 Paris
 ### 👨‍💼 Freelance web dev and infosec passioned
 
 
